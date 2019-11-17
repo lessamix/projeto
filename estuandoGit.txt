@@ -1,1 +1,5 @@
 Incluíndo um arquivo no repositório do Git com o comando git add
+
+Agora vou alterar o arquivo e colocá-lo para ser selecionado pelo Git.
+
+Realiznado uma nova mudança depois de feito o git add e antes de fazer o git commit.
