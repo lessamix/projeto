@@ -1,0 +1,1 @@
+Incluíndo um arquivo no repositório do Git com o comando git add
